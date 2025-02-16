@@ -1,2 +1,4 @@
 # Luke-and-Ian-s-Project
-Luke and Ian's project 
+ideas:
+1. a web browser homepage
+2. a weather app
